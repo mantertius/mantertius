@@ -32,6 +32,4 @@ Hi 👋 My name is Manoel Terceiro
 
 <a href="https://github.com/mantertius" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantertius&theme=gotham&layout=compact&hide_border=true" alt="Top Languages" /></a>
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/mantertius"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
+![](https://komarev.com/ghpvc/?username=mantertius&style=flat-square%label=visitors)
