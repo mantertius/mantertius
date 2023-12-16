@@ -3,7 +3,7 @@ Hi 👋 My name is Manoel Terceiro
 
 * 🌍  I'm based in Maceió, Brazil
 * ✉️  You can contact me at [mpat@ic.ufal.br](mailto:mpat@ic.ufal.br)
-* 🧠  I'm learning NLP and Machine Learning
+* 🧠  I'm learning NLP and Blockchain
 * 🤝  I'm open to collaborating on natural language processing, deep learning and computer vision projects
 * ⚡  I get thrilled by challenges
 
